@@ -4,6 +4,7 @@ import perfil from '../imagens/perfil.svg'
 import sacola from '../imagens/sacola.svg'
 
 
+
 function Header() {
     const textoOpcoes = ["CATEGORIAS", "SOBRE NÓS", "FAVORITOS"]
     const iconesOpcoes = [perfil, sacola]

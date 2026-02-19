@@ -1,12 +1,14 @@
 .logo {
     display: flex;
     font-size: 30px;
+    
 }
 
 .logoImg {
     margin-right: 10px;;
     width: 50px;
     margin-left: 10px;
+    
 }
 
 .appHeader{
