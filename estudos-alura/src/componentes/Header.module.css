@@ -1,0 +1,46 @@
+.logo {
+    display: flex;
+    font-size: 30px;
+}
+
+.logoImg {
+    margin-right: 10px;;
+    width: 50px;
+    margin-left: 10px;
+}
+
+.appHeader{
+       background-color: #FFF;
+       display: flex;
+}
+
+li{
+    list-style: none;
+}
+
+.opcoes{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.opcao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    padding: 0 5px;
+    cursor: pointer;
+    min-width: 120px;
+    font-size: 16px;
+}
+
+.icones{
+    display: flex;
+    align-items: center;
+}
+
+.icone{
+    padding: 0px 10px;
+    width: 25px;
+}
